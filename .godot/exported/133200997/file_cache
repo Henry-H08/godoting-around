@@ -1,6 +1,0 @@
-res://scenes/level/level.tscn::e46f270e79dd754e13e49f9451e8453d::1781977013::res://.godot/exported/133200997/export-f24fae1c75ddb1242ad1b542084e5848-level.scn
-res://scenes/level/player.tscn::430ba4cfd935922363bd05fb587ce1b3::1781977013::res://.godot/exported/133200997/export-b335a651c2b8f1d47c87e6ca6403322b-player.scn
-res://scenes/ui/inventory_slot_ui.tscn::39ae665d7e46a0524981d8c5bee072e2::1781977013::res://.godot/exported/133200997/export-adb79b6eb3a66a445226b91f8a40243a-inventory_slot_ui.scn
-res://scenes/ui/inventory_ui.tscn::cedff285584da41f87548a762e476e6a::1781977013::res://.godot/exported/133200997/export-be2dfa4d054a49c239cea37c1a3b3fde-inventory_ui.scn
-res://scenes/ui/main_menu_ui.tscn::dcf0868067a3e34979a29be484d45f6c::1781977013::res://.godot/exported/133200997/export-53f3a0b588fc4a9b3262a95888d7fdcc-main_menu_ui.scn
-res://scenes/ui/multiplayer_chat_ui.tscn::9af67cb27245dae6aa6f0b060b12a3eb::1781977013::res://.godot/exported/133200997/export-65435decd3e03d5121c279405e4a0996-multiplayer_chat_ui.scn
